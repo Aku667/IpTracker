@@ -1,12 +1,12 @@
 # IpTracker
 Simple Ip tracker en python 
 
-================================== 
+==================================\n
          module a installer 
 
-colorama :
-os :
-json :
-requests : 
-
+coloraman\n
+os\n
+json\n
+requests\n
+\n
 ====================================
