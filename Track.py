@@ -49,5 +49,3 @@ mode >""")
 while True:
     mode()
     clear()
-
-#merci de pas skid
